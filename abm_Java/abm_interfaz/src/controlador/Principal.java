@@ -18,15 +18,9 @@ public class Principal {
      */
     public static void main(String[] args) {
        
-        Controller_principal.mostrar();
+       // Controller_principal.mostrar();
         Controller_login.mostrar();
-        
-            
-        
-        
-        
-        
-        
+      
         
         
     }
